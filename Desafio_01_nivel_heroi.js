@@ -37,24 +37,24 @@ Ao final deve se exibir uma mensagem:
 
 */
 
-// let nivelDoHeroi = 2350;
-// let nomeDoHeroi = "Gendalf";
+let nivelDoHeroi = 2350;
+let nomeDoHeroi = "Gendalf";
 
-// if(nivelDoHeroi <= 1000){
-//     console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Ferro XP ${nivelDoHeroi}`)
-//   } else if (nivelDoHeroi > 1000 && nivelDoHeroi <= 2000){
-//     console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Bronze XP ${nivelDoHeroi}`)
-//   } else if (nivelDoHeroi > 2000 && nivelDoHeroi <= 5000){
-//     console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Prata XP ${nivelDoHeroi}`)
-//   }else if (nivelDoHeroi > 5000 && nivelDoHeroi <= 7000){
-//     console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Ouro XP ${nivelDoHeroi}`)
-//   }else if (nivelDoHeroi > 7000 && nivelDoHeroi <= 8000){
-//     console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Platina XP ${nivelDoHeroi}`)
-//   }else if (nivelDoHeroi > 8000 && nivelDoHeroi <= 9000){
-//     console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Ascendente XP ${nivelDoHeroi}`)
-//   }else if (nivelDoHeroi > 9000 && nivelDoHeroi <= 10000){
-//     console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Imortal XP ${nivelDoHeroi}`)
-//   }else if (nivelDoHeroi > 10000){
-//     console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Radiante XP ${nivelDoHeroi}`)
-// }
+if(nivelDoHeroi <= 1000){
+    console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Ferro XP ${nivelDoHeroi}`)
+  } else if (nivelDoHeroi > 1000 && nivelDoHeroi <= 2000){
+    console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Bronze XP ${nivelDoHeroi}`)
+  } else if (nivelDoHeroi > 2000 && nivelDoHeroi <= 5000){
+    console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Prata XP ${nivelDoHeroi}`)
+  }else if (nivelDoHeroi > 5000 && nivelDoHeroi <= 7000){
+    console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Ouro XP ${nivelDoHeroi}`)
+  }else if (nivelDoHeroi > 7000 && nivelDoHeroi <= 8000){
+    console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Platina XP ${nivelDoHeroi}`)
+  }else if (nivelDoHeroi > 8000 && nivelDoHeroi <= 9000){
+    console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Ascendente XP ${nivelDoHeroi}`)
+  }else if (nivelDoHeroi > 9000 && nivelDoHeroi <= 10000){
+    console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Imortal XP ${nivelDoHeroi}`)
+  }else if (nivelDoHeroi > 10000){
+    console.log(`O Herói de nome ${nomeDoHeroi} está no nível de Radiante XP ${nivelDoHeroi}`)
+}
 
